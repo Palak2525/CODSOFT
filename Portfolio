@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Personal Portfolio Website</title>
+    <!----CSS link----->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="hero">
+      <nav>
+        <h1>Portfolio</span></h1>
+        <h1>About me</span></h1>
+        <p>
+          This is Palak Tandel.
+        </p>
+        <h1>What I Do</span></h1>
+        <p>
+         I'm a web developer at CodSoft.
+        </p>
+        <h1>Qualification</span></h1>
+        <p>
+          Am persuing B.tech at Jaypee University Of Engineering And Technology. Have studied at St. George Convent Higher Secondary School. 
+        </p>
+        <h1>Skills</span></h1>
+         </p>
+        C++, C, Html, Css, Python, English Proficiency, Digital Art, Designing 
+        </p>
+       <h1>Contact Me</span></h1>
+        </p>
+        palakaron25@gmail.com
+        </p>
+         6263390130
+        </p>
+       
+        <h1>LinkdIn profile</span></h1>
+        </p>
+         https://www.linkedin.com/in/palak-tandel-b659a7255
+         </p>
+         <h1>Resume</span></h1>
+       <a href="#" class="btn">Download Resume</a>
+       
+      </div>
+    </div>
+  </body>
+</html>
+
