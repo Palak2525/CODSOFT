@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		
+
+		body {
+			background-color: #aa76cf;
+			margin: 10%;
+		}
+
+		/*  */
+		#title {
+			text-align: starting;
+			font-size: 8vh;
+		}
+
+		/* */
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		/* Font color and Font size at caption*/
+		#caption {
+			font-size: 17px;
+			font-family: Serif;
+			color: black;
+		}
+
+		/* content of the page*/
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			
+			font-family: Serif;
+			padding: 20px 20px;
+			margin: 10px;
+			margin-top: 50px;
+		}
+
+		/* title of the content */
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			
+		}
+
+		
+		
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		
+		<h1 id="title">
+			Mahatma Gandhi - The Father Of The Nation
+		</h1>
+
+		
+
+
+			<small id="caption">
+				Mohandas Karamchand Gandhi was an Indian lawyer, politician, social activist, and writer who became the leader of the nationalist movement against the British rule of India.
+			</small>
+		</div>
+
+		<div id="tribute-data">
+
+			
+			<h1 class="title-APJ">
+				About the Legend
+			</h1>
+			<p>
+				* Mohandas Karamchand Gandhi anti-colonial nationalist was born on 2nd October 1869 and died at 30th January 1948 <br><br>
+				* The honorific mahatma gandhi first applied to him in 1914 in South Africa <br><br>
+				* Mahatma Gandhi studies law in london and took a job in 1893 with an Indian law firm in south africa<br><br>
+				* He campaigns for <strong>
+					“Swaraj”</strong> or <strong>
+					“Self Rule”</strong><br><br>
+                * Mahatma Gandhi in 1934 had resigned as a leader and member of Indian National Congress, becomes politically active again early in "World War II"
+				<br><br> 
+                * Involved in events - Round Table Conference, 1931
+                Quit India Movement, 1942<br><br>
+                * From 1919 Gandhi became highly politically active in India. It was his belief in satyagraha that made him the leader of the nationalist movement against the Raj.<br><br>
+				* By 1931 he had become integral to Indian national life and the sole representative of the Indian National Congress at the second Round Table Conference (Gandhi was in prison during the first Conference in 1930)<br><br>
+                * On 8 August, a reception was held for him at the Hotel Cecil. In attendance were, among others, Charlotte Despard, Albert Cartwright, Bhupendranath Basu, Sacchidanand Sinha, Lala Lajpat Rai, Mohammed Ali Jinnah, Ananda K. <br><br>
+                * Coomaraswamy, Amir Ali and J. M. Parikh. While in London he established the Indian Volunteer Corps before he left on 19 December 1914.<br><br>
+
+			</p>
+
+		</div>
+		<br>
+		This was about 
+		<a id="tribute-link" href="#">
+			<b>Mohandas Karamchand Gandhi</b> on Wikipedia. [
+			<small> By @<a href="#">
+					Palak Tandel.</a></a>
+		</small>]
+	</main>
+</body>
+</html>
